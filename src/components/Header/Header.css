@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #383838; }
+  .navbar a:hover {
+    color: gray; }
+
+.navbar-end a {
+  color: #C1C1C1;
+  padding: 0.5rem 1.75rem; }
+  @media screen and (max-width: 768px) {
+    .navbar-end a {
+      color: gray; }
+      .navbar-end a::hover {
+        background-color: #F1F1F1; } }
+
+.navbar-burger span {
+  background-color: #C1C1C1; }
+
+footer {
+  background-color: #1EC9AC !important;
+  color: #fff; }
+
+.icon {
+  color: #fff;
+  margin-left: 20px; }

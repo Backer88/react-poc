@@ -1,0 +1,13 @@
+h2 {
+  margin: 1.5rem 0 2rem 0 !important; }
+
+.fa-cog {
+  font-size: 40px; }
+
+@media screen and (min-width: 1000px) {
+  #learn {
+    margin-bottom: 2rem; } }
+
+@media screen and (min-width: 769px), print {
+  .pd {
+    padding: 2rem 0; } }
